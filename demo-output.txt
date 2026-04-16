@@ -1,0 +1,65 @@
+
+🔍 Vaultfire Trust-Gated Delegation Demo
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Task: Delegate data analysis to agent 0xA054...b84F
+🔗 Chain: Base (8453)
+🎯 Min Tier: bronze
+🏠 Hub: theloopbreaker.com
+
+⏳ Verifying trust on-chain...
+
+✅ DELEGATION APPROVED
+  Street Cred: 30/95 (Bronze ⭐)                 
+  Active Bonds: 0                               
+  Identity: Registered & Active                 
+  Reason: Agent meets bronze tier threshold — Street Cred 30/95 (bronze)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 Full Trust Profile:
+
+   Identity Registered          30/30 pts  ██████████
+   Has Bond                      0/25 pts  ░░░░░░░░░░
+   Bond Active                   0/15 pts  ░░░░░░░░░░
+   Bond Tier Bonus               0/20 pts  ░░░░░░░░░░
+   Multiple Bonds                0/5 pts  ░░░░░░░░░░
+
+   ──────────────────────────────────────────────────
+   Total Score                  30/95 pts
+   Tier                         Bronze ⭐
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔗 On-Chain Details:
+
+   Agent:    0xA054f831B562e729F8D268291EBde1B2EDcFb84F
+   Chain:    Base (ID: 8453)
+   Registry: 0x35978DB675576598F0781dA2133E94cdCf4858bC
+   Bonds:    0xC574CF2a09B0B470933f0c6a3ef422e3fb25b4b4
+   Explorer: https://basescan.org/address/0xA054f831B562e729F8D268291EBde1B2EDcFb84F
+
+📡 Fetching protocol stats...
+   (Stats unavailable — network issue)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ Delegation proceeding — agent is trusted on-chain.
+
+   [Simulated] Sending task to agent...
+   [Simulated] Task: Delegate data analysis to agent 0xA054...b84F
+   [Simulated] Agent 0xA054f831... acknowledged.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⏱  Verification completed in 0.5s
+
+Learn more:
+   @vaultfire/langchain  → github.com/Ghostkey316/vaultfire-langchain
+   Vaultfire Protocol    → github.com/Ghostkey316/vaultfire-base
+   Hub                   → theloopbreaker.com
+
+Run with LangGraph agent (requires OPENAI_API_KEY):
+   npm install @langchain/openai @langchain/langgraph
+   OPENAI_API_KEY=sk-... npm run agent
+

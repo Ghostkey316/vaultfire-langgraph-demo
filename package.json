@@ -1,0 +1,26 @@
+{
+  "name": "vaultfire-langgraph-demo",
+  "version": "1.0.0",
+  "description": "Working demo: LangGraph agent with Vaultfire trust-gated task delegation",
+  "private": true,
+  "author": "Ghostkey316",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ghostkey316/vaultfire-langgraph-demo.git"
+  },
+  "scripts": {
+    "demo": "npx ts-node src/run.ts",
+    "agent": "npx ts-node src/agent.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@vaultfire/langchain": "^1.0.0",
+    "ethers": "^6.10.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/node": "^20.10.6",
+    "ts-node": "^10.9.2"
+  }
+}
