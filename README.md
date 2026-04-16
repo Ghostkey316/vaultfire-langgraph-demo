@@ -251,6 +251,11 @@ vaultfire-langgraph-demo/
 | `@vaultfire/xmtp` | Trust-gated encrypted agent messaging | Coming soon |
 | `@vaultfire/vns` | On-chain `.vns` name service | Coming soon |
 | `vaultfire-contracts` | All deployed ABIs and addresses | [github.com/Ghostkey316/vaultfire-base](https://github.com/Ghostkey316/vaultfire-base) |
+| [`@vaultfire/enterprise`](https://www.npmjs.com/package/@vaultfire/enterprise) | Enterprise IAM bridge — Okta/Azure AD to on-chain trust |
+| [`vaultfire-agents`](https://github.com/Ghostkey316/vaultfire-agents) | 3 reference agents with live on-chain trust verification |
+| [`vaultfire-a2a-trust-extension`](https://github.com/Ghostkey316/vaultfire-a2a-trust-extension) | A2A Trust Extension spec — on-chain trust for Agent Cards |
+| [`vaultfire-showcase`](https://github.com/Ghostkey316/vaultfire-showcase) | Why Vaultfire Bonds beat trust scores — live proof |
+| [`vaultfire-whitepaper`](https://github.com/Ghostkey316/vaultfire-whitepaper) | Trust Framework whitepaper — economic accountability for AI |
 
 **Hub:** [theloopbreaker.com](https://theloopbreaker.com)  
 **Protocol:** [github.com/Ghostkey316/vaultfire-base](https://github.com/Ghostkey316/vaultfire-base)  
