@@ -1,5 +1,8 @@
 # vaultfire-langgraph-demo
 
+
+> **⚠️ Alpha Software** — Vaultfire Protocol is in active development. Smart contracts are deployed on mainnet but have **not been formally audited** by a third-party security firm. This demo reads from live contracts — write operations require a funded wallet. Use at your own risk. See [LICENSE](./LICENSE) for warranty disclaimers.
+
 A working demo proving that a LangGraph ReAct agent can use Vaultfire to make trust-gated delegation decisions from on-chain data — in real-time, on Base mainnet.
 
 No mocks. No stubs. Live contracts.
